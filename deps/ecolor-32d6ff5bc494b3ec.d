@@ -1,0 +1,12 @@
+C:\Users\isich\c4h\target\release\deps\libecolor-32d6ff5bc494b3ec.rmeta: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\color32.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva_gamma.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\rgba.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hex_color_runtime.rs
+
+C:\Users\isich\c4h\target\release\deps\libecolor-32d6ff5bc494b3ec.rlib: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\color32.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva_gamma.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\rgba.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hex_color_runtime.rs
+
+C:\Users\isich\c4h\target\release\deps\ecolor-32d6ff5bc494b3ec.d: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\color32.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva_gamma.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\rgba.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hex_color_runtime.rs
+
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\lib.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\color32.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva_gamma.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hsva.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\rgba.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.28.1\src\hex_color_runtime.rs:

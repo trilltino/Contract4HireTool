@@ -1,0 +1,11 @@
+C:\Users\isich\c4h\target\release\deps\libinclude_dir-6f98aa69039df82c.rmeta: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src/lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir_entry.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\file.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\../README.md
+
+C:\Users\isich\c4h\target\release\deps\libinclude_dir-6f98aa69039df82c.rlib: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src/lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir_entry.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\file.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\../README.md
+
+C:\Users\isich\c4h\target\release\deps\include_dir-6f98aa69039df82c.d: C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src/lib.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir_entry.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\file.rs C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\../README.md
+
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src/lib.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\dir_entry.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\file.rs:
+C:\Users\isich\.cargo\registry\src\index.crates.io-6f17d22bba15001f\include_dir-0.7.4\src\../README.md:
