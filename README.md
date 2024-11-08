@@ -8,7 +8,7 @@ To Install group the files into a
 more local directory of your choice!
 
 -- Stellar CLI – (https://developers.stellar.org/docs/build/smart-contracts/getting-started/setup#install-the-stellar-cli)
-tcontracts/getting-started/setup
+
 
 -- Make sure the contracts are in an accessible directory as
 the command line will be used
