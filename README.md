@@ -4,8 +4,7 @@ Contract4hire is an onboarding tool for newbies to Stellar - Join our unlikely h
 Now With Developer Docs to get you started in Rust and Contract Development! 
 
 
-The install will place the program in your
-program files, after this group the downloads into a
+To Install group the files into a
 more local directory of your choice!
 
 -- Stellar CLI – (https://developers.stellar.org/docs/build/smart-contracts/getting-started/setup#install-the-stellar-cli)
